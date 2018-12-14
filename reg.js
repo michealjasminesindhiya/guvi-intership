@@ -1,4 +1,4 @@
-alidate form () {
+validate form () {
 x=document set Element By Id("Password").value
 if(x=="){
 alert ("password must be filled");
